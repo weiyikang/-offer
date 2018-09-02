@@ -27,5 +27,17 @@
     <ClCompile Include="Solution09.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="变态跳台阶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩形覆盖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求1+2+...+n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

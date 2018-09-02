@@ -1,16 +1,22 @@
-﻿生成启动时间为 2018/9/2 14:52:52。
+﻿生成启动时间为 2018/9/2 21:13:22。
      1>项目“F:\求职简历\牛客网-剑指offer\CPP66\CPP66\CPP66.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Solution09.cpp
-         Solution09.cpp
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "求1+2+...+n.cpp" "矩形覆盖.cpp"
+         矩形覆盖.cpp
+         求1+2+...+n.cpp
+         正在生成代码...
        Link:
          D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.lib" /MACHINE:X86 Debug\main.obj
          Debug\Solution03.obj
          Debug\Solution04.obj
          Debug\Solution09.obj
+         "Debug\变态跳台阶.obj"
+         "Debug\求1+2+...+n.obj"
+         "Debug\矩形覆盖.obj"
+         "Debug\跳台阶.obj"
          CPP66.vcxproj -> F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.exe
      1>已完成生成项目“F:\求职简历\牛客网-剑指offer\CPP66\CPP66\CPP66.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.08
+已用时间 00:00:02.76
