@@ -51,5 +51,35 @@
     <ClCompile Include="数组中出现次数超过一半的数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="从尾到头打印链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DPbase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DPdag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DPcoin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组中只出现一次的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="base1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="base2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="base3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>

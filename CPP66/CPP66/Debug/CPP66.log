@@ -1,19 +1,25 @@
-﻿生成启动时间为 2018/9/26 21:49:05。
+﻿生成启动时间为 2019/4/24 21:22:19。
      1>项目“F:\求职简历\牛客网-剑指offer\CPP66\CPP66\CPP66.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "数组中出现次数超过一半的数.cpp"
-         数组中出现次数超过一半的数.cpp
-     1>f:\求职简历\牛客网-剑指offer\cpp66\cpp66\数组中出现次数超过一半的数.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
-     1>f:\求职简历\牛客网-剑指offer\cpp66\cpp66\数组中出现次数超过一半的数.cpp(22): warning C4018: “>”: 有符号/无符号不匹配
-     1>f:\求职简历\牛客网-剑指offer\cpp66\cpp66\数组中出现次数超过一半的数.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt base3.cpp
+         base3.cpp
        Link:
-         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.lib" /MACHINE:X86 Debug\main.obj
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\求职简历\牛客网-剑指offer\CPP66\Debug\CPP66.lib" /MACHINE:X86 "Debug\0-1.obj"
+         Debug\base1.obj
+         Debug\base2.obj
+         Debug\base3.obj
+         Debug\DPbase.obj
+         Debug\DPcoin.obj
+         Debug\DPdag.obj
+         Debug\main.obj
          Debug\Solution03.obj
          Debug\Solution04.obj
          Debug\Solution09.obj
          "Debug\二进制中1的个数.obj"
+         "Debug\从尾到头打印链表.obj"
          "Debug\变态跳台阶.obj"
          "Debug\数组中出现次数超过一半的数.obj"
+         "Debug\数组中只出现一次的数字.obj"
          "Debug\最小的k个数.obj"
          "Debug\求1+2+...+n.obj"
          "Debug\矩形覆盖.obj"
@@ -24,4 +30,4 @@
 
 生成成功。
 
-已用时间 00:00:01.18
+已用时间 00:00:02.38
