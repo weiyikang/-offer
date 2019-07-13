@@ -1,4 +1,4 @@
-### [C++主要语法](https://github.com/weiyikang/offer/blob/master/C%2B%2B%E8%AF%AD%E6%B3%95.md)
+### [C++主要语法](./C++主要语法.md)
 ### [C++数据结构]()
 ### [C++常用算法]()
 ### git简要流程：
