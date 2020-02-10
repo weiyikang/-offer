@@ -69,7 +69,7 @@ void light()
 	cout << endl;
 }
 
-void main()
+void main291752()
 {
 	//invOutput();
 	//arrayCpy();

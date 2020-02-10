@@ -78,6 +78,150 @@
     <ClCompile Include="base3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="NNclock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="交错01串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="堆棋子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组最大子序列和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C++字符串类操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="左旋转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串字典序打印.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="表面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="锯木棍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表倒数第k个元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中缀转后缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四则运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组最大连续子序列和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一元一次方程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="吃桃子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="非完全平方数判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计单词个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串缩写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stl初步.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长特殊子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长递增递减子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_deque.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_priority_queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="STL_set.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长不重复子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vivo背包问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树构建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="末尾的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="询问次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="永远不可达到的地方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="生产者消费者模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一个简单的模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
